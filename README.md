@@ -1,5 +1,5 @@
 # hello-config
 Store your configfiles include:
-- Macrodroid  macros
+- Macrodroid macros
 - Kep Mapper profile
 
